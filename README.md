@@ -1,2 +1,2 @@
-# eCartCloud
-A dummy eCommerce shopping cart site using React, Redux and Material UI
+# react-semantic-ui-kit
+A starter kit using React, Redux and Semantic UI :)
