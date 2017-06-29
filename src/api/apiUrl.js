@@ -1,3 +1,3 @@
-const apiUrl = 'http://localhost/eCartCloudAPI/src/api.php';
+const apiUrl = process.env.NODE_ENV === 'development' ? 'http://localhost/dev/src/api.php' : 'http://localhost/prod/src/api.php';
 
 export default apiUrl;
