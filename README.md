@@ -16,9 +16,20 @@ Starter kit with Rect, Redux and Semantic UI
   - Sockets.io
 
 ### Installation
+
 ```sh
 git clone https://github.com/spartan082189/react-semantic-ui-kit
 ```
+Install the node packages
+```sh
+npm install
+```
+Start the project and navigate to http://localhost:3000
+```sh
+npm start
+```
+
+### Enjoy and happy coding :)
 License
 ----
 
