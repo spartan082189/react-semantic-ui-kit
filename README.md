@@ -1,6 +1,6 @@
 # React Semantic UI Kit
 
-[![N|Solid](react-semantic-ui-kit/src/assets/images/demo.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](/react-semantic-ui-kit/src/assets/images/demo.png)](https://nodesource.com/products/nsolid)
 
 Starter kit with Rect, Redux and Semantic UI
 
