@@ -29,6 +29,29 @@ Start the project and navigate to http://localhost:3000
 npm start
 ```
 
+### Setup Semantic UI via Gulp
+
+## Make sure you have Gulp installed globally
+```sh
+npm install --global gulp-cli
+```
+## Install Gulp locally in the project
+```sh
+npm install --save-dev gulp
+```
+## Open another terminal and change directories to the semantic folder
+```sh
+cd /styles/semantic
+```
+## Build the dist folder (output folder which contains semantic.min.css)
+```sh
+gulp build
+```
+## Watch for any changes to the semantic folder
+```sh
+gulp watch
+```
+
 ### Enjoy and happy coding :)
 License
 ----
